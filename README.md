@@ -1,1 +1,1 @@
-# basic-info-site
+In this project, I create my first Node.js site.
